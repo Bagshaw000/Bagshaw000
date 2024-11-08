@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Omieibi Bagshaw a software engineer.<br>I am currently working on building Expert<br>Advisors for financial markets.<br>I am also exploring how Market research can be <br>obtained and synthesized through the web.<br>In my spare time I enjoy watching and playing<br>football. 
+I am Omieibi Bagshaw a software and quant engineer.<br>I am currently working on building Expert<br>Advisors for financial markets.
 
 
 ## 🌐 Socials:
